@@ -1,2 +1,1 @@
 hi created new test2.txt from computer
-checking
